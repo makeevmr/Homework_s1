@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.23)
+project(Homework_s1)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Homework_s1 main.cpp
+        "Homework 1/Task 1/mapping.cpp"
+        "Homework 1/Task 1/mapping.h"
+        "Homework 1/Task 2/quad_solve.cpp"
+        "Homework 1/Task 2/quad_solve.h"
+        "Homework 1/Task 3/ring.cpp"
+        "Homework 1/Task 3/ring.h"
+        "Homework 2/Task 0/arithmetic_mean.cpp"
+        "Homework 2/Task 0/arithmetic_mean.h"
+        "Homework 2/Task 1/stars_triangle.cpp"
+        "Homework 2/Task 1/stars_triangle.h"
+        "Homework 2/Task 2/isosceles_triangle.cpp"
+        "Homework 2/Task 2/isosceles_triangle.h"
+        "Homework 2/Task 3/diamond_stars.cpp"
+        "Homework 2/Task 3/diamond_stars.h"
+        "Homework 2/Task 4/several_diamonds_stars.cpp"
+        "Homework 2/Task 4/several_diamonds_stars.h"
+        "Homework 2/Task 5/checkered_diamond_stars.cpp"
+        "Homework 2/Task 5/checkered_diamond_stars.h"
+        "Homework 2/Task 6/hollow_diamond_stars.cpp"
+        "Homework 2/Task 6/hollow_diamond_stars.h"
+        "Homework 2/Task 7/graphics_drawer.cpp"
+        "Homework 2/Task 7/graphics_drawer.h")

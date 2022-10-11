@@ -1,0 +1,6 @@
+#ifndef HOMEWORK_S1_HOLLOW_DIAMOND_STARS_H
+#define HOMEWORK_S1_HOLLOW_DIAMOND_STARS_H
+
+void hollow_diamond_executor();
+
+#endif //HOMEWORK_S1_HOLLOW_DIAMOND_STARS_H

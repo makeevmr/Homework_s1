@@ -1,0 +1,6 @@
+#ifndef HOMEWORK_S1_ARITHMETIC_MEAN_H
+#define HOMEWORK_S1_ARITHMETIC_MEAN_H
+
+void average_executor();
+
+#endif //HOMEWORK_S1_ARITHMETIC_MEAN_H

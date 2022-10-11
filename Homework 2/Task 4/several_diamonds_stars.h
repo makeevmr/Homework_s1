@@ -1,0 +1,6 @@
+#ifndef HOMEWORK_S1_SEVERAL_DIAMONDS_STARS_H
+#define HOMEWORK_S1_SEVERAL_DIAMONDS_STARS_H
+
+void several_diamonds_executor();
+
+#endif //HOMEWORK_S1_SEVERAL_DIAMONDS_STARS_H
