@@ -12,7 +12,7 @@ void graph_drawer() {
     const int height = 21;
     const int width = 41;
     double y = 1.5;
-    while(y >= -1.5) {
+    while (y >= -1.5) {
         double x = -1.5;
         while (x <= 1.5) {
             if ((in_int_power((x * x + y * y - 1), 3) - x * x * y * y * y) <= 0) {
