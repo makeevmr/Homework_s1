@@ -25,4 +25,14 @@ add_executable(Homework_s1 main.cpp
         "Homework 2/Task 6/hollow_diamond_stars.cpp"
         "Homework 2/Task 6/hollow_diamond_stars.h"
         "Homework 2/Task 7/graphics_drawer.cpp"
-        "Homework 2/Task 7/graphics_drawer.h" "Homework 3/Task 1/harmonic_sum.cpp" "Homework 3/Task 1/harmonic_sum.h" "Homework 3/Task 2/sum_powers_two.cpp" "Homework 3/Task 2/sum_powers_two.h" "Homework 3/Task 3/sin_sum.cpp" "Homework 3/Task 3/sin_sum.h" "Homework 3/Task 4/pi_value.cpp" "Homework 3/Task 4/pi_value.h" "Homework 3/Task 5/sine_approximation.cpp" "Homework 3/Task 5/sine_approximation.h")
+        "Homework 2/Task 7/graphics_drawer.h"
+        "Homework 3/Task 1/harmonic_sum.cpp"
+        "Homework 3/Task 1/harmonic_sum.h"
+        "Homework 3/Task 2/sum_powers_two.cpp"
+        "Homework 3/Task 2/sum_powers_two.h"
+        "Homework 3/Task 3/sin_sum.cpp"
+        "Homework 3/Task 3/sin_sum.h"
+        "Homework 3/Task 4/pi_value.cpp"
+        "Homework 3/Task 4/pi_value.h"
+        "Homework 3/Task 5/sine_approximation.cpp"
+        "Homework 3/Task 5/sine_approximation.h")
