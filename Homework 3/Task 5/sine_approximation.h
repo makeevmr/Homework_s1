@@ -1,0 +1,6 @@
+#ifndef HOMEWORK_S1_SINE_APPROXIMATION_H
+#define HOMEWORK_S1_SINE_APPROXIMATION_H
+
+void sine_approximation_executor();
+
+#endif //HOMEWORK_S1_SINE_APPROXIMATION_H
