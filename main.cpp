@@ -4,8 +4,10 @@
 #include "Homework 3/Task 3/sin_sum.h"
 #include "Homework 3/Task 4/pi_value.h"
 #include "Homework 3/Task 5/sine_approximation.h"
+#include <optional>
 
 int main() {
+    std::optional<bool> blah;
     int task_number;
     std::cout << "Enter number of task (1 - 5): ";
     std::cin >> task_number;
