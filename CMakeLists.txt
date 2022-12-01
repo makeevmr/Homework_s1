@@ -35,4 +35,6 @@ add_executable(Homework_s1 main.cpp
         "Homework 3/Task 4/pi_value.cpp"
         "Homework 3/Task 4/pi_value.h"
         "Homework 3/Task 5/sine_approximation.cpp"
-        "Homework 3/Task 5/sine_approximation.h")
+        "Homework 3/Task 5/sine_approximation.h"
+        "Homework 4/Task 1/Bracket expression validation.cpp"
+        "Homework 4/Task 1/Bracket expression validation.h")
